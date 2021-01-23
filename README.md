@@ -2,3 +2,5 @@
 
 
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](spotify:user:31tjmxvwayxma5aoyuuryv2xdxgy:playlist:4R46zAqJR89mFE8IS8cayp)
