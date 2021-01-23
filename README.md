@@ -15,11 +15,4 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](spotify:user:31tjmxvwayxma5aoyuuryv2xdxgy:playlist:4R46zAqJR89mFE8IS8cayp)
 
 
-<br> <br>
 
-<details open>
-<summary>📊 Github Stats</summary>
-
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=alanmathew33&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmathew33&theme=gruvbox&layout=compact&hide=html,css&langs_count=10)](https://github.com/alanmathew33?tab=repositories)
-</details>
