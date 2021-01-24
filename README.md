@@ -5,7 +5,7 @@
 - Economics Student📚
 - Android Enthusiast📱
 - Music Lover🎶
-- Hippie🕊
+- Photographer📸
 - Cherry-picking🍒
 - kanger👾
 
@@ -15,4 +15,23 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](spotify:user:31tjmxvwayxma5aoyuuryv2xdxgy:playlist:4R46zAqJR89mFE8IS8cayp)
 
 
+
+### Connect with me:
+
+[<img align="left" alt="__alan__mathew__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="alanm07 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Alan Mathew | Gamil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Alan Mathew | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Alan Mathew | SourceForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
+
+<br />
+<br />
+
+---
+
+[instagram]: https://instagram.com/__alan__mathew__
+[telegram]: https://t.me/alanm07
+[gmail]: https://mail.google.com/mail/u/0/#inbox.com/alanmadathil007@gmail.com
+[gitlab]: https://gitlab.com/alanmathew
+[sourceforge]: https://sourceforge.net/u/alanmathhew33
 
