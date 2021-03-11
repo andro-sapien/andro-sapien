@@ -7,7 +7,7 @@
 - Music Lover🎶
 - Photographer📸
 - Cherry-picking🍒
-- kanger👾
+
 
 
 
