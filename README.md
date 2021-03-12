@@ -6,7 +6,7 @@
 - Android Enthusiast📱
 - Music Lover🎶
 - Photographer📸
-- Cherry-picking🍒
+
 
 
 
