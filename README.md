@@ -30,7 +30,7 @@
 ---
 
 [instagram]: https://instagram.com/__alan__mathew__
-[telegram]: https://t.me/alanm07
+[telegram]: https://t.me/androsapien
 [gmail]: https://mail.google.com/mail/u/0/alanmadathil007@gmail.com
 [gitlab]: https://gitlab.com/alanmathew
 [sourceforge]: https://sourceforge.net/u/alanmathhew33
