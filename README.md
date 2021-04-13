@@ -16,13 +16,14 @@
 
 
 
-### Connect with me:
+### Connect with me:📞
 
 [<img align="left" alt="__alan__mathew__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="alanm07 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Alan Mathew | Gamil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Alan Mathew | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="Alan Mathew | SourceForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
+[<img align="left" alt="karthiksp206 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
@@ -34,6 +35,7 @@
 [gmail]: https://mail.google.com/mail/u/0/alanmadathil007@gmail.com
 [gitlab]: https://gitlab.com/alanmathew
 [sourceforge]: https://sourceforge.net/u/alanmathhew33
+[twitter]: https://twitter.com/alan__mathew
 
-![](https://komarev.com/ghpvc/?username=alanmathew33&color=red&style=plastic)
+## ![](https://komarev.com/ghpvc/?username=alanmathew33&color=red&style=plastic)
 
