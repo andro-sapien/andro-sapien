@@ -37,5 +37,3 @@
 [sourceforge]: https://sourceforge.net/u/alanmathhew33
 [twitter]: https://twitter.com/alan__mathew
 
-## ![](https://komarev.com/ghpvc/?username=alanmathew33&color=red&style=plastic)
-
