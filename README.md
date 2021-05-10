@@ -16,7 +16,7 @@
 
 
 
-### Contact me 
+### Connect with me
 
 [<img align="left" alt="__alan__mathew__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="alanm07 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
