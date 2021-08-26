@@ -1,8 +1,8 @@
 <p align="center"><strong>OHai! Just another opensource enthusiast here :)</strong></p>
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=andro-sapien&style=flat-square" alt="andro-sapien"></p>
 <p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
-<p <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andro-sapien&show_icons=true&locale=en&layout=compact" alt="andro-sapien" /></p>
-<p <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andro-sapien&" alt="andro-sapien" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andro-sapien&show_icons=true&locale=en&layout=compact" alt="andro-sapien" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andro-sapien&" alt="andro-sapien" /></p>
 <p align="center"><strong>Looking for something & Didn't find here? Connect with me <strong></p>
 [<img align="center" alt="__alan__mathew__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="alanm07 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
