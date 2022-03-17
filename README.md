@@ -13,10 +13,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Alan Mathew
-- An Open Source enthusiast.
-- A Economics Postgraduate Student. 
-- Currently working on some Open Source Projects .
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- An Open Source enthusiast 😀
+- A Economics Postgraduate Student 👨‍🎓
+- Currently working on some Open Source Projects 🦸
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way 🙂
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andro-sapien&" alt="andro-sapien" /></p>
 
