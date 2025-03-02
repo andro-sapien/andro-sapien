@@ -4,7 +4,7 @@
   </samp>
   <br>
   <p align="center">
-      <img src="https://github.com/andro-sapien/andro-sapien/blob/master/base.gif" width="20px">
+      <img src="https://github.com/andro-sapien/andro-sapien/blob/master/base.gif" width="30px">
   </p>
 
 <p align="center"><img align="center" alt="GIF" width="450px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></p>
